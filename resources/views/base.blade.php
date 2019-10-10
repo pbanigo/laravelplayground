@@ -83,7 +83,7 @@
                     <a href="products">View Products</a>
                     <a href="cproduct">Add Product</a>
                     <a href="tasks">View Tasks</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="contact">Contact Us</a>
                 </div>
   <script src="{{ asset('js/app.js') }}" type="text/js"></script>
 </body>

@@ -20,10 +20,13 @@ Route::get('about', function () {
 Route::get('ccontact', function () {
     return view('contacts.create');
 });
+
 Route::get('cproduct', function () {
     return view('product.create');
 });
-
+Route::get('contact', function () {
+    return view('contact');
+});
 Route::resource('contacts', 'ContactController');
 Route::resource('tasks', 'TaskController');
 Route::resource('products', 'ProductController');
