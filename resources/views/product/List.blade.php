@@ -8,7 +8,7 @@
    <div class="row">
         <div class="col-12">
           
-          <table class="table table-bordered" id="laravel_crud">
+          <table class="table table-dark" id="laravel_crud">
            <thead>
               <tr>
                  <th>Id</th>
